@@ -1,2 +1,2 @@
-console.log(js ieladets)
+console.log("js ieladets")
 
